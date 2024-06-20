@@ -1,0 +1,31 @@
+GET http://localhost:5017/games
+
+###
+
+GET http://localhost:5017/games/4
+
+###
+POST http://localhost:5017/games
+Content-Type:  application/json
+
+{
+    "name": "King of Fighters",
+    "genre": "Fighting",
+    "price": 20.00,
+    "releaseDate": "2001-11-18"
+}
+
+###
+PUT http://localhost:5017/games/1
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Street Fighter II Turbo",
+    "genre": "Fighting",
+    "price": 15.50,
+    "releaseDate": "1992-07-15"
+}
+
+###
+DELETE http://localhost:5017/games/1

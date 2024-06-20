@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CE8ZkaJ9K0b8867EfZ42OFtqQ2yH5Z1zqzLSIVEsBF9tgDUc15v5xJkhg1aSztRFYIaMv44G6v2PIXnVIgqNKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\C# Code\\Julio Casal Youtube Course\\GameStore\\GameStore.API\\GameStore.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
